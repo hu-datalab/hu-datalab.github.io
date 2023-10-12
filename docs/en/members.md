@@ -9,6 +9,7 @@
 - Weiran Xu
 - NADS AZMAN AKUK
 - Guanming Shao
+- MAPLOOK SARINNA
 
 ## Master's Students
 - Koki Sato

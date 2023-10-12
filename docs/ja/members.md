@@ -9,6 +9,7 @@
 - 許 蔚然 (Weiran Xu)
 - NADS AZMAN AKUK
 - 邵 冠銘 (Guanming Shao)
+- MAPLOOK SARINNA
 
 ## 修士 (Master's Students)
 - 佐藤 滉起 (Koki Sato)
