@@ -4,7 +4,7 @@
 - [江口 浩二 (Koji Eguchi)](https://researchmap.jp/eguchi?lang=ja)
 - [アンドラーデ ダニエル (Daniel Andrade)](https://seeds.office.hiroshima-u.ac.jp/profile/ja.80a89287f8ce0746520e17560c007669.html)
 - [福嶋 誠 (Makoto Fukushima)](https://sites.google.com/site/mfukushimawebjp)
-- [ユ イ (Yi Yu)]https://researchmap.jp/yiyu?lang=ja)
+- [ユ イ (Yi Yu)](https://researchmap.jp/yiyu?lang=ja)
 
 ## 博士(PhD Students)
 - 許 蔚然 (Weiran Xu)
