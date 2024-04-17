@@ -7,30 +7,32 @@
 - [Yi Yu](https://researchmap.jp/yiyu?lang=en)
 
 ## PhD Students
-- Weiran Xu
-- NADS AZMAN AKUK
 - Guanming Shao
 - MAPLOOK SARINNA
+- NADS AZMAN AKUK
+- Weiran Xu
 
 ## Master's Students
-- Koki Sato
-- Kohei Watanabe
+- JIN YONGSHAN
 - Jinyuan Shi
-- Ryota Sato
+- Kaijie He
 - Kengo Hirami
 - Kensho Takehara
 - Koto Nakata
+- MARSHA NABILAH WIBOWO
+- Ryo Nishimura
+- Ryota Sato
 - Sho Nakahori
+- Shunsuke Hayashi
 - Yuteng Zhang
 - Ziyu Song
 		
 ## Undergraduate students
-- Miku Fujiki
-- Ryo Nishimura
-- Takumi Satani
-- Shunsuke Hayashi
+- Atsuko Takahashi
 - Atsuya Kashiwagi
+- Masato Mizogaki
+- Soichiro Minami
+- Tenshin Okuma
 
 ## Research students
 - Jie Ding
-- Kaijie He
