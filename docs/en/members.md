@@ -14,7 +14,7 @@
 - Weiran Xu
 
 ## Master's Students
-- JIN YONGSHAN
+- YONGSHAN JIN
 - Jinyuan Shi
 - Kaijie He
 - Kengo Hirami
@@ -36,6 +36,6 @@
 - Tenshin Okuma
 
 ## Research students
-- Huang Yuhan
-- Li Hideyoshi
+- Yuhan Huang
 - Zihan Huang
+- Hideyoshi Li
