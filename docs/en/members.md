@@ -10,6 +10,7 @@
 - Guanming Shao
 - MAPLOOK SARINNA
 - NADS AZMAN AKUK
+- RADITYA FAISAL WALIULU
 - Weiran Xu
 
 ## Master's Students
@@ -35,4 +36,6 @@
 - Tenshin Okuma
 
 ## Research students
-- Jie Ding
+- Huang Yuhan
+- Li Hideyoshi
+- Zihan Huang
