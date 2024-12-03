@@ -14,7 +14,7 @@
 - 許 蔚然 (Weiran Xu)
 
 ## 修士 (Master's Students)
-- 金 永山 (JIN YONGSHAN)
+- 金 永山 (YONGSHAN JIN)
 - 史 晋源 (Jinyuan Shi)
 - 何 凱傑 (Kaijie He)
 - 平見 健悟（Kengo Hirami）
@@ -36,6 +36,6 @@
 - 大熊 天眞 (Tenshin Okuma)
 
 ## 研究生 (Research students)
-- 黄 雨涵 (Huang Yuhan)
-- 李 秀吉 (Li Hideyoshi)
+- 黄 雨涵 (Yuhan Huang)
 - 黄 子涵 (Zihan Huang)
+- 李 秀吉 (Hideyoshi Li)
