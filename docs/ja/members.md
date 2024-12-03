@@ -10,6 +10,7 @@
 - 邵 冠銘 (Guanming Shao)
 - MAPLOOK SARINNA
 - NADS AZMAN AKUK
+- RADITYA FAISAL WALIULU
 - 許 蔚然 (Weiran Xu)
 
 ## 修士 (Master's Students)
@@ -35,4 +36,6 @@
 - 大熊 天眞 (Tenshin Okuma)
 
 ## 研究生 (Research students)
-- 丁 潔 (Jie Ding)
+- 黄 雨涵 (Huang Yuhan)
+- 李 秀吉 (Li Hideyoshi)
+- 黄 子涵 (Zihan Huang)
