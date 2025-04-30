@@ -9,7 +9,7 @@ Graduate School of Advanced Science and Engineering, Hiroshima University
 	
 ### Access
 - Room #321, School of Informatics and Data Science A1 building, Higashi-Hiroshima campus  
-- [Campus map of Bus stop "Hirodai-higashiguchi" area](https://www.hiroshima-u.ac.jp/en/access/higashihiroshima/busstop_higashihiroshima/aca_7)  
+- [Campus map (The nearest bus stop is "Hirodai-higashiguchi".)](https://www.hiroshima-u.ac.jp/en/access/higashihiroshima/busstop_higashihiroshima)  
 - [Getting to the campus ("Higashi-Hiroshima'"campus)](https://www.hiroshima-u.ac.jp/en/access)  
 
 ### Map
