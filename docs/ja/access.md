@@ -7,7 +7,7 @@
 	
 ### アクセス		
 - 東広島キャンパス 実験研究棟A1 3階321号室
-- [キャンパスマップ（バス停「広大東口」周辺地図）](https://www.hiroshima-u.ac.jp/access/higashihiroshima/busstop_higashihiroshima/aca_7)
+- [キャンパスマップ（最寄りバス停：「広大東口」）](https://www.hiroshima-u.ac.jp/access/higashihiroshima/busstop_higashihiroshima)
 - [広島大学（東広島キャンパス）までのアクセス](https://www.hiroshima-u.ac.jp/access)  
 
 
