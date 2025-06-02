@@ -2,7 +2,7 @@
 
 ## 2024年度
 - 史 晋源, 大規模言語モデルによるデータ拡張に基づく知識グラフ埋め込みと予測性能の評価, 広島大学大学院先進理工系科学研究科情報科学プログラム修士論文, 指導教員: 江口浩二 (Feb. 2025).
-- 中堀 翔, Term Clustering for Improved Interpretability in Medical Text Classification, 広島大学大学院先進理工系科学研究科情報科学プログラム修士論文, 指導教員: Daniel Andrade (Feb. 2024).
+- 中堀 翔, Term Clustering for Improved Interpretability in Medical Text Classification, 広島大学大学院先進理工系科学研究科情報科学プログラム修士論文, 指導教員: Daniel Andrade (Feb. 2025).
 - 平見 健悟, VIC正則化を用いた文脈化ニューラルトピックモデルの自己教師あり学習, 広島大学大学院先進理工系科学研究科情報科学プログラム修士論文, 指導教員: 江口浩二 (Feb. 2025).
 - 佐藤 亮太, 大規模言語モデルとグラフニューラルネットワークに基づくサプライチェーンの予測モデリング, 広島大学大学院先進理工系科学研究科情報科学プログラム修士論文, 指導教員: 江口浩二 (Feb. 2025).
 - 宋 子瑜, Iterative LLM Augmentation through Criteria-Based Feedback, 広島大学大学院先進理工系科学研究科情報科学プログラム修士論文, 指導教員: 江口浩二 (Feb. 2025).
