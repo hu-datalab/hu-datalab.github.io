@@ -7,35 +7,36 @@
 - [ユ イ (Yi Yu)](https://researchmap.jp/yiyu?lang=ja)
 
 ## 博士(PhD Students)
-- 邵 冠銘 (Guanming Shao)
 - MAPLOOK SARINNA
+- Md Zahidul Islam
 - NADS AZMAN AKUK
 - RADITYA FAISAL WALIULU
+- 邵 冠銘 (Guanming Shao)
 - 許 蔚然 (Weiran Xu)
 
 ## 修士 (Master's Students)
+- 大熊 天眞 (Tenshin Okuma)
+- 井原 大晴 (Taisei Ihara)
 - 金 永山 (YONGSHAN JIN)
-- 史 晋源 (Jinyuan Shi)
 - 何 凱傑 (Kaijie He)
-- 平見 健悟（Kengo Hirami）
-- 中田 航人 (Koto Nakata)
-- MARSHA NABILAH WIBOWO	
-- 竹原 健将 (Kensho Takehara)
-- 西村 涼 (Ryo Nishimura)
-- 佐藤 亮太 (Ryota Sato)
-- 中堀 翔 (Sho Nakahori)
 - 林 駿将 (Shunsuke Hayashi)
-- 張 玉騰 (Yuteng Zhang)
-- 宋 子瑜 (Ziyu Song)
+- 黄 子涵 (Zihan Huang)
+- 李 澤寧（Zenning Li）
+- 李 秀吉 (Hideyoshi Li)
+- MARSHA NABILAH WIBOWO	
+- 西村 涼 (Ryo Nishimura)
+- 洪 瀲（Lian Hong）
+- Yichen Wang
 
 ## 学部生 (Undergraduate students)
-- 髙橋 温子 (Atsuko Takahashi)
-- 柏木 淳哉 (Atsuya Kashiwagi)
-- 溝垣 雅人 (Masato Mizogaki)
-- 南 聡一郎 (Soichiro Minami)
-- 大熊 天眞 (Tenshin Okuma)
+- 石田 果歩 (Kaho Ishida)
+- 黒川 利璃香 (Ririka Kurokawa)
+- 松村 晃 (Hikaru Matsumura)
+- 中本 帆波 (Honami Nakamoto)
+- 佐藤 真 (Makoto Sato)
+- 梅田 駿之介 (Shunnosuke Umeda)
+- 劒持 利宗 (Toshimune Kenmotsu)
 
 ## 研究生 (Research students)
-- 黄 雨涵 (Yuhan Huang)
-- 黄 子涵 (Zihan Huang)
-- 李 秀吉 (Hideyoshi Li)
+- Tanjila Akter Tithi
+- 張 悦翰（Yuehan Zhang）
