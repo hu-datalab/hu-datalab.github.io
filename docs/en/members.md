@@ -7,35 +7,36 @@
 - [Yi Yu](https://researchmap.jp/yiyu?lang=en)
 
 ## PhD Students
-- Guanming Shao
 - MAPLOOK SARINNA
+- Md Zahidul Islam
 - NADS AZMAN AKUK
 - RADITYA FAISAL WALIULU
+- Guanming Shao
 - Weiran Xu
 
 ## Master's Students
+- Tenshin Okuma
+- Taisei Ihara
 - YONGSHAN JIN
-- Jinyuan Shi
 - Kaijie He
-- Kengo Hirami
-- Kensho Takehara
-- Koto Nakata
-- MARSHA NABILAH WIBOWO
-- Ryo Nishimura
-- Ryota Sato
-- Sho Nakahori
 - Shunsuke Hayashi
-- Yuteng Zhang
-- Ziyu Song
+- Zihan Huang
+- Zenning Li
+- Ryo Nishimura
+- Hideyoshi Li
+- MARSHA NABILAH WIBOWO
+- Lian Hong
+- Yichen Wang
 		
 ## Undergraduate students
-- Atsuko Takahashi
-- Atsuya Kashiwagi
-- Masato Mizogaki
-- Soichiro Minami
-- Tenshin Okuma
+- Kaho Ishida
+- Ririka Kurokawa
+- Hikaru Matsumura
+- Honami Nakamoto
+- Mokoto Sato
+- Shunnosuke Umeda
+- Toshimune Kenmotsu
 
 ## Research students
-- Yuhan Huang
-- Zihan Huang
-- Hideyoshi Li
+- Tanjila Akter Tithi
+- Yuehan Zhang
