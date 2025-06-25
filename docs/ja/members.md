@@ -7,26 +7,26 @@
 - [ユ イ (Yi Yu)](https://researchmap.jp/yiyu?lang=ja)
 
 ## 博士(PhD Students)
-- MAPLOOK SARINNA
+- Sarinna Maplook
 - Md Zahidul Islam
-- NADS AZMAN AKUK
-- RADITYA FAISAL WALIULU
+- Azman Akuk Nads
+- Raditya Faisal Waliulu
 - 邵 冠銘 (Guanming Shao)
 - 許 蔚然 (Weiran Xu)
 
 ## 修士 (Master's Students)
 - 大熊 天眞 (Tenshin Okuma)
 - 井原 大晴 (Taisei Ihara)
-- 金 永山 (YONGSHAN JIN)
+- 金 永山 (Yongshan Jin)
 - 何 凱傑 (Kaijie He)
 - 林 駿将 (Shunsuke Hayashi)
 - 黄 子涵 (Zihan Huang)
 - 李 澤寧（Zenning Li）
 - 李 秀吉 (Hideyoshi Li)
-- MARSHA NABILAH WIBOWO	
+- Marsha Nabilah Wibowo
 - 西村 涼 (Ryo Nishimura)
 - 洪 瀲（Lian Hong）
-- Yichen Wang
+- 王 軼琛（Yichen Wang）
 
 ## 学部生 (Undergraduate students)
 - 石田 果歩 (Kaho Ishida)
