@@ -7,24 +7,24 @@
 - [Yi Yu](https://researchmap.jp/yiyu?lang=en)
 
 ## PhD Students
-- MAPLOOK SARINNA
+- Sarinna Maplook
 - Md Zahidul Islam
-- NADS AZMAN AKUK
-- RADITYA FAISAL WALIULU
+- Azman Akuk Nads
+- Raditya Faisal Waliulu
 - Guanming Shao
 - Weiran Xu
 
 ## Master's Students
 - Tenshin Okuma
 - Taisei Ihara
-- YONGSHAN JIN
+- Yongshan Jin
 - Kaijie He
 - Shunsuke Hayashi
 - Zihan Huang
 - Zenning Li
 - Ryo Nishimura
 - Hideyoshi Li
-- MARSHA NABILAH WIBOWO
+- Marsha Nabilah Wibowo
 - Lian Hong
 - Yichen Wang
 		
