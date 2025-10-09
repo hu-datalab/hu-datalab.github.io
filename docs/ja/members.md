@@ -13,6 +13,7 @@
 - Raditya Faisal Waliulu
 - 邵 冠銘 (Guanming Shao)
 - 許 蔚然 (Weiran Xu)
+- Junye Zhang
 
 ## 修士 (Master's Students)
 - 大熊 天眞 (Tenshin Okuma)
@@ -40,3 +41,4 @@
 
 ## 研究生 (Research students)
 - Tanjila Akter Tithi
+- 張 智涵 (Zhihan Zhang)

@@ -13,6 +13,7 @@
 - Raditya Faisal Waliulu
 - Guanming Shao
 - Weiran Xu
+- Junye Zhang
 
 ## Master's Students
 - Tenshin Okuma
@@ -40,3 +41,4 @@
 
 ## Research students
 - Tanjila Akter Tithi
+- Zhihan Zhang
