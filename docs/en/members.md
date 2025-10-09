@@ -27,6 +27,7 @@
 - Marsha Nabilah Wibowo
 - Lian Hong
 - Yichen Wang
+- Yuehan Zhang
 		
 ## Undergraduate students
 - Kaho Ishida
@@ -39,4 +40,3 @@
 
 ## Research students
 - Tanjila Akter Tithi
-- Yuehan Zhang

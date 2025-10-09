@@ -27,6 +27,7 @@
 - 西村 涼 (Ryo Nishimura)
 - 洪 瀲（Lian Hong）
 - 王 軼琛（Yichen Wang）
+- 張 悦翰（Yuehan Zhang）
 
 ## 学部生 (Undergraduate students)
 - 石田 果歩 (Kaho Ishida)
@@ -39,4 +40,3 @@
 
 ## 研究生 (Research students)
 - Tanjila Akter Tithi
-- 張 悦翰（Yuehan Zhang）
