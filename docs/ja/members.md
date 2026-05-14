@@ -12,7 +12,6 @@
 - Azman Akuk Nads
 - Raditya Faisal Waliulu
 - 邵 冠銘 (Guanming Shao)
-- 許 蔚然 (Weiran Xu)
 - Junye Zhang
 
 ## 修士 (Master's Students)
