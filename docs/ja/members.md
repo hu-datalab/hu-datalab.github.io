@@ -13,30 +13,36 @@
 - Raditya Faisal Waliulu
 - 邵 冠銘 (Guanming Shao)
 - Junye Zhang
+- Marsha Nabilah Wibowo
+- 王 軼琛（Yichen Wang）
+- 張 悦翰（Yuehan Zhang）
 
 ## 修士 (Master's Students)
 - 大熊 天眞 (Tenshin Okuma)
 - 井原 大晴 (Taisei Ihara)
-- 金 永山 (Yongshan Jin)
-- 何 凱傑 (Kaijie He)
-- 林 駿将 (Shunsuke Hayashi)
 - 黄 子涵 (Zihan Huang)
 - 李 澤寧（Zenning Li）
 - 李 秀吉 (Hideyoshi Li)
-- Marsha Nabilah Wibowo
-- 西村 涼 (Ryo Nishimura)
 - 洪 瀲（Lian Hong）
-- 王 軼琛（Yichen Wang）
-- 張 悦翰（Yuehan Zhang）
-
-## 学部生 (Undergraduate students)
-- 石田 果歩 (Kaho Ishida)
-- 黒川 利璃香 (Ririka Kurokawa)
+- Liu Xiaomeng
+- Zhang Yuehan
+- Luo Zehao
+- Yang Yu
+- Phyo Pyae Pyae Lwin
 - 松村 晃 (Hikaru Matsumura)
-- 中本 帆波 (Honami Nakamoto)
-- 佐藤 真 (Makoto Sato)
 - 梅田 駿之介 (Shunnosuke Umeda)
 - 劒持 利宗 (Toshimune Kenmotsu)
+
+## 学部生 (Undergraduate students)
+- 小野 綾生 (Izuki Ono)
+- 市河 日向 (Hinata Ichikawa)
+- 佐々木 大輝 (Daiki Sasaki)
+- 川口 真歩 (Maho Kawaguchi)
+- 山下 晃聖 (Kosei Yamashita)
+- 佐伯 航汰 (Kota Saiki)
+- 若田 康平 (Kohei Wakata)
+- 森脇 庵 (Iori Moriwaki)
+- 平田 智晃 (Tomoaki Hirata)
 
 ## 研究生 (Research students)
 - Tanjila Akter Tithi

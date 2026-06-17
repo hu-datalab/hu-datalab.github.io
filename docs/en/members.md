@@ -12,32 +12,37 @@
 - Azman Akuk Nads
 - Raditya Faisal Waliulu
 - Guanming Shao
-- Weiran Xu
 - Junye Zhang
+- Marsha Nabilah Wibowo
+- Yichen Wang
+- Yuehan Zhang
 
 ## Master's Students
 - Tenshin Okuma
 - Taisei Ihara
-- Yongshan Jin
-- Kaijie He
-- Shunsuke Hayashi
 - Zihan Huang
 - Zenning Li
-- Ryo Nishimura
 - Hideyoshi Li
-- Marsha Nabilah Wibowo
 - Lian Hong
-- Yichen Wang
-- Yuehan Zhang
-		
-## Undergraduate students
-- Kaho Ishida
-- Ririka Kurokawa
+- Liu Xiaomeng
+- Zhang Yuehan
+- Luo Zehao
+- Yang Yu
+- Phyo Pyae Pyae Lwin
 - Hikaru Matsumura
-- Honami Nakamoto
-- Mokoto Sato
 - Shunnosuke Umeda
 - Toshimune Kenmotsu
+		
+## Undergraduate students
+- Izuki Ono
+- Hinata Ichikawa
+- Daiki Sasaki
+- Maho Kawaguchi
+- Kosei Yamashita
+- Kota Saiki
+- Kohei Wakata
+- Iori Moriwaki
+- Tomoaki Hirata
 
 ## Research students
 - Tanjila Akter Tithi
