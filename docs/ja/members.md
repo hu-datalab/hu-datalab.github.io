@@ -7,11 +7,12 @@
 - [ユ イ (Yi Yu)](https://researchmap.jp/yiyu?lang=ja)
 
 ## 博士(PhD Students)
-- Sarinna Maplook
 - Md Zahidul Islam
+- Sarinna Maplook
 - Azman Akuk Nads
-- Raditya Faisal Waliulu
 - 邵 冠銘 (Guanming Shao)
+- Raditya Faisal Waliulu
+- 許 蔚然（Weiran Xu）
 - Junye Zhang
 
 ## 修士 (Master's Students)
