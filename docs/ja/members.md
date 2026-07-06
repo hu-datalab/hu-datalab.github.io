@@ -25,7 +25,6 @@
 - 王 軼琛（Yichen Wang）
 - Phyo Pyae Pyae Lwin
 - Zehao Luo
-- Marsha Nabilah Wibowo
 - 劉 小萌 (Xiaomeng Liu)
 - 楊 羽 (Yu Yang)
 - 張 悦翰（Yuehan Zhang）
