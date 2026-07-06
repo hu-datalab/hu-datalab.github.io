@@ -40,13 +40,20 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+
+      - name: Show versions
+        run: |
+          python --version
+          mkdocs --version
+
+      
       - name: mkdocs build
         run: |
            # mkdocs build --verbose --clean --strict
            mkdocs build --verbose --clean
       - name: mkdocs deploy
-        # uses: peaceiris/actions-gh-pages@v4
-        uses: peaceiris/actions-gh-pages@v6
+        uses: peaceiris/actions-gh-pages@v4
         with:
            github_token: ${{ secrets.GITHUB_TOKEN }}
            # publish_dir: site
