@@ -20,10 +20,14 @@ jobs:
         with:
           fetch-depth: 0
 
-#      - name: configure git info
+      - name: configure git info
 #        run: |
 #          git config --global user.name "github-actions-for-deploy"
 #          git config --global user.email deploy-actions@github.com
+        run: |
+          git branch --show-current
+          git log --oneline -1
+
 #      - name: check git status and branch
 #        run: |
 #          git status
