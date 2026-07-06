@@ -2,17 +2,17 @@ name: Deploy mkdocs manually
 
 on:
   workflow_dispatch:
-    inputs:
-      パラメーター名:
-        description: '公開ファイルのビルド'
+#    inputs:
+#      パラメーター名:
+#        description: '公開ファイルのビルド'
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
           contents: write
-          pages: write
-          id-token: write
+#          pages: write
+#          id-token: write
     steps:
       - name: checkout branch 
         # uses: actions/checkout@v2
@@ -20,20 +20,21 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: configure git info
-        run: |
-          git config --global user.name "github-actions-for-deploy"
-          git config --global user.email deploy-actions@github.com
-      - name: check git status and branch
-        run: |
-          git status
-          git branch
-      # mkdocsを利用するためのpython環境のsetupを行う
-      - name: setup python env
-        # uses: actions/setup-python@v1
+#      - name: configure git info
+#        run: |
+#          git config --global user.name "github-actions-for-deploy"
+#          git config --global user.email deploy-actions@github.com
+#      - name: check git status and branch
+#        run: |
+#          git status
+#          git branch
+#      # mkdocsを利用するためのpython環境のsetupを行う
+#      - name: setup python env
+#        # uses: actions/setup-python@v1
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          # python-version: '3.13'
+          python-version: '3.12'
 
       - name: install dependencies
         run: |
@@ -41,9 +42,11 @@ jobs:
           pip install -r requirements.txt
       - name: mkdocs build
         run: |
-           mkdocs build --verbose --clean --strict
+           # mkdocs build --verbose --clean --strict
+           mkdocs build --verbose --clean
       - name: mkdocs deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
            github_token: ${{ secrets.GITHUB_TOKEN }}
-           publish_dir: site
+           # publish_dir: site
+           publish_dir: ./site
