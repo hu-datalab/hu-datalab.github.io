@@ -15,7 +15,8 @@ jobs:
           id-token: write
     steps:
       - name: checkout branch 
-        uses: actions/checkout@v2
+        # uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -29,7 +30,8 @@ jobs:
           git branch
       # mkdocsを利用するためのpython環境のsetupを行う
       - name: setup python env
-        uses: actions/setup-python@v1
+        # uses: actions/setup-python@v1
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
 
