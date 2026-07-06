@@ -29,7 +29,7 @@ jobs:
 #          git status
 #          git branch
 #      # mkdocsを利用するためのpython環境のsetupを行う
-#      - name: setup python env
+      - name: setup python env
 #        # uses: actions/setup-python@v1
         uses: actions/setup-python@v5
         with:
