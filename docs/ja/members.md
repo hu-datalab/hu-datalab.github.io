@@ -7,42 +7,42 @@
 - [ユ イ (Yi Yu)](https://researchmap.jp/yiyu?lang=ja)
 
 ## 博士(PhD Students)
-- Sarinna Maplook
-- Md Zahidul Islam
 - Azman Akuk Nads
-- Raditya Faisal Waliulu
+- Md Zahidul Islam
+- Sarinna Maplook
 - 邵 冠銘 (Guanming Shao)
+- Raditya Faisal Waliulu
 - Junye Zhang
-- Marsha Nabilah Wibowo
-- 王 軼琛（Yichen Wang）
-- 張 悦翰（Yuehan Zhang）
 
 ## 修士 (Master's Students)
-- 大熊 天眞 (Tenshin Okuma)
 - 井原 大晴 (Taisei Ihara)
-- 黄 子涵 (Zihan Huang)
-- 李 澤寧（Zenning Li）
-- 李 秀吉 (Hideyoshi Li)
+- 大熊 天眞 (Tenshin Okuma)
 - 洪 瀲（Lian Hong）
-- Liu Xiaomeng
-- Zhang Yuehan
-- Luo Zehao
-- Yang Yu
+- 黄 子涵 (Zihan Huang)
+- 李 秀吉 (Hideyoshi Li)
+- 李 澤寧（Zenning Li）
+- 秦 子睿 (Zirui Qin)
+- 王 軼琛（Yichen Wang）
 - Phyo Pyae Pyae Lwin
-- 松村 晃 (Hikaru Matsumura)
+- Zehao Luo
+- Marsha Nabilah Wibowo
+- 劉 小萌 (Xiaomeng Liu)
+- 楊 羽 (Yu Yang)
+- 張 悦翰（Yuehan Zhang）
 - 梅田 駿之介 (Shunnosuke Umeda)
 - 劒持 利宗 (Toshimune Kenmotsu)
+- 松村 晃 (Hikaru Matsumura)
 
 ## 学部生 (Undergraduate students)
-- 小野 綾生 (Izuki Ono)
 - 市河 日向 (Hinata Ichikawa)
-- 佐々木 大輝 (Daiki Sasaki)
+- 小野 綾生 (Izuki Ono)
 - 川口 真歩 (Maho Kawaguchi)
-- 山下 晃聖 (Kosei Yamashita)
 - 佐伯 航汰 (Kota Saiki)
-- 若田 康平 (Kohei Wakata)
-- 森脇 庵 (Iori Moriwaki)
+- 佐々木 大輝 (Daiki Sasaki)
 - 平田 智晃 (Tomoaki Hirata)
+- 森脇 庵 (Iori Moriwaki)
+- 山下 晃聖 (Kosei Yamashita)
+- 若田 康平 (Kohei Wakata)
 
 ## 研究生 (Research students)
 - Tanjila Akter Tithi
