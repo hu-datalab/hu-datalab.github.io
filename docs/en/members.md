@@ -25,7 +25,6 @@
 - Yichen Wang
 - Phyo Pyae Pyae Lwin
 - Zehao Luo
-- Marsha Nabilah Wibowo
 - Xiaomeng Liu
 - Yu Yang
 - Yuehan Zhang
