@@ -45,7 +45,8 @@ jobs:
            # mkdocs build --verbose --clean --strict
            mkdocs build --verbose --clean
       - name: mkdocs deploy
-        uses: peaceiris/actions-gh-pages@v4
+        # uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v6
         with:
            github_token: ${{ secrets.GITHUB_TOKEN }}
            # publish_dir: site
