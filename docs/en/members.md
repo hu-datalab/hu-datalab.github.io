@@ -7,37 +7,42 @@
 - [Yi Yu](https://researchmap.jp/yiyu?lang=en)
 
 ## PhD Students
+- Azman Akuk Nads
 - Md Zahidul Islam
 - Sarinna Maplook
-- Azman Akuk Nads
 - Guanming Shao
 - Raditya Faisal Waliulu
-- Weiran Xu
 - Junye Zhang
 
 ## Master's Students
 - Tenshin Okuma
 - Taisei Ihara
-- Yongshan Jin
-- Kaijie He
-- Shunsuke Hayashi
-- Zihan Huang
-- Zenning Li
-- Ryo Nishimura
-- Hideyoshi Li
-- Marsha Nabilah Wibowo
 - Lian Hong
+- Zihan Huang
+- Hideyoshi Li
+- Zenning Li
+- Zirui Qin
 - Yichen Wang
+- Phyo Pyae Pyae Lwin
+- Zehao Luo
+- Marsha Nabilah Wibowo
+- Xiaomeng Liu
+- Yu Yang
 - Yuehan Zhang
-		
-## Undergraduate students
-- Kaho Ishida
-- Ririka Kurokawa
-- Hikaru Matsumura
-- Honami Nakamoto
-- Mokoto Sato
 - Shunnosuke Umeda
 - Toshimune Kenmotsu
+- Hikaru Matsumura
+		
+## Undergraduate students
+- Hinata Ichikawa
+- Izuki Ono
+- Maho Kawaguchi
+- Kota Saiki
+- Daiki Sasaki
+- Tomoaki Hirata
+- Iori Moriwaki
+- Kosei Yamashita
+- Kohei Wakata
 
 ## Research students
 - Tanjila Akter Tithi

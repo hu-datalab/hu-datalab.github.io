@@ -7,37 +7,42 @@
 - [ユ イ (Yi Yu)](https://researchmap.jp/yiyu?lang=ja)
 
 ## 博士(PhD Students)
+- Azman Akuk Nads
 - Md Zahidul Islam
 - Sarinna Maplook
-- Azman Akuk Nads
 - 邵 冠銘 (Guanming Shao)
 - Raditya Faisal Waliulu
-- 許 蔚然（Weiran Xu）
 - Junye Zhang
 
 ## 修士 (Master's Students)
-- 大熊 天眞 (Tenshin Okuma)
 - 井原 大晴 (Taisei Ihara)
-- 金 永山 (Yongshan Jin)
-- 何 凱傑 (Kaijie He)
-- 林 駿将 (Shunsuke Hayashi)
-- 黄 子涵 (Zihan Huang)
-- 李 澤寧（Zenning Li）
-- 李 秀吉 (Hideyoshi Li)
-- Marsha Nabilah Wibowo
-- 西村 涼 (Ryo Nishimura)
+- 大熊 天眞 (Tenshin Okuma)
 - 洪 瀲（Lian Hong）
+- 黄 子涵 (Zihan Huang)
+- 李 秀吉 (Hideyoshi Li)
+- 李 澤寧（Zenning Li）
+- 秦 子睿 (Zirui Qin)
 - 王 軼琛（Yichen Wang）
+- Phyo Pyae Pyae Lwin
+- Zehao Luo
+- Marsha Nabilah Wibowo
+- 劉 小萌 (Xiaomeng Liu)
+- 楊 羽 (Yu Yang)
 - 張 悦翰（Yuehan Zhang）
-
-## 学部生 (Undergraduate students)
-- 石田 果歩 (Kaho Ishida)
-- 黒川 利璃香 (Ririka Kurokawa)
-- 松村 晃 (Hikaru Matsumura)
-- 中本 帆波 (Honami Nakamoto)
-- 佐藤 真 (Makoto Sato)
 - 梅田 駿之介 (Shunnosuke Umeda)
 - 劒持 利宗 (Toshimune Kenmotsu)
+- 松村 晃 (Hikaru Matsumura)
+
+## 学部生 (Undergraduate students)
+- 市河 日向 (Hinata Ichikawa)
+- 小野 綾生 (Izuki Ono)
+- 川口 真歩 (Maho Kawaguchi)
+- 佐伯 航汰 (Kota Saiki)
+- 佐々木 大輝 (Daiki Sasaki)
+- 平田 智晃 (Tomoaki Hirata)
+- 森脇 庵 (Iori Moriwaki)
+- 山下 晃聖 (Kosei Yamashita)
+- 若田 康平 (Kohei Wakata)
 
 ## 研究生 (Research students)
 - Tanjila Akter Tithi
