@@ -34,7 +34,7 @@
 
 ## 学部生 (Undergraduate students)
 - 市河 日向 (Hinata Ichikawa)
-- 小野 綾生 (Izuki Ono)
+- 小野 稜生 (Izuki Ono)
 - 川口 真歩 (Maho Kawaguchi)
 - 佐伯 航汰 (Kota Saiki)
 - 佐々木 大輝 (Daiki Sasaki)
